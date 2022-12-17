@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sebas-cam.github.io/vicios-burger/static/css/main.fdc35d5c.css",
-    "main.js": "/sebas-cam.github.io/vicios-burger/static/js/main.0021af12.js",
-    "static/js/787.6355a37f.chunk.js": "/sebas-cam.github.io/vicios-burger/static/js/787.6355a37f.chunk.js",
-    "static/media/logo.jpg": "/sebas-cam.github.io/vicios-burger/static/media/logo.bc3e375576bcaf1bf477.jpg",
-    "index.html": "/sebas-cam.github.io/vicios-burger/index.html",
-    "main.fdc35d5c.css.map": "/sebas-cam.github.io/vicios-burger/static/css/main.fdc35d5c.css.map",
-    "main.0021af12.js.map": "/sebas-cam.github.io/vicios-burger/static/js/main.0021af12.js.map",
-    "787.6355a37f.chunk.js.map": "/sebas-cam.github.io/vicios-burger/static/js/787.6355a37f.chunk.js.map"
+    "main.css": "/vicios-burger/static/css/main.fdc35d5c.css",
+    "main.js": "/vicios-burger/static/js/main.80c5f647.js",
+    "static/js/787.6355a37f.chunk.js": "/vicios-burger/static/js/787.6355a37f.chunk.js",
+    "static/media/logo.jpg": "/vicios-burger/static/media/logo.bc3e375576bcaf1bf477.jpg",
+    "index.html": "/vicios-burger/index.html",
+    "main.fdc35d5c.css.map": "/vicios-burger/static/css/main.fdc35d5c.css.map",
+    "main.80c5f647.js.map": "/vicios-burger/static/js/main.80c5f647.js.map",
+    "787.6355a37f.chunk.js.map": "/vicios-burger/static/js/787.6355a37f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc35d5c.css",
-    "static/js/main.0021af12.js"
+    "static/js/main.80c5f647.js"
   ]
 }
