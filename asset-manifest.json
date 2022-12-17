@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vicios-burger/static/css/main.fdc35d5c.css",
-    "main.js": "/vicios-burger/static/js/main.80c5f647.js",
-    "static/js/787.6355a37f.chunk.js": "/vicios-burger/static/js/787.6355a37f.chunk.js",
-    "static/media/logo.jpg": "/vicios-burger/static/media/logo.bc3e375576bcaf1bf477.jpg",
-    "index.html": "/vicios-burger/index.html",
-    "main.fdc35d5c.css.map": "/vicios-burger/static/css/main.fdc35d5c.css.map",
-    "main.80c5f647.js.map": "/vicios-burger/static/js/main.80c5f647.js.map",
-    "787.6355a37f.chunk.js.map": "/vicios-burger/static/js/787.6355a37f.chunk.js.map"
+    "main.css": "./static/css/main.fdc35d5c.css",
+    "main.js": "./static/js/main.48d1b9d9.js",
+    "static/js/787.6355a37f.chunk.js": "./static/js/787.6355a37f.chunk.js",
+    "static/media/logo.jpg": "./static/media/logo.bc3e375576bcaf1bf477.jpg",
+    "index.html": "./index.html",
+    "main.fdc35d5c.css.map": "./static/css/main.fdc35d5c.css.map",
+    "main.48d1b9d9.js.map": "./static/js/main.48d1b9d9.js.map",
+    "787.6355a37f.chunk.js.map": "./static/js/787.6355a37f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc35d5c.css",
-    "static/js/main.80c5f647.js"
+    "static/js/main.48d1b9d9.js"
   ]
 }
